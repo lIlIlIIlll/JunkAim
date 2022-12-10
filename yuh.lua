@@ -132,7 +132,7 @@ local serializer = {}
 
 local settings = {}
 
-local hud = loadstring(game:HttpGet("https://pastebin.com/raw/3hREvLEU", DEBUG_MODE == false and true or DEBUG_MODE == true and false))()[1] -- Ugly ui do not care
+local hud = loadstring(game:HttpGet("https://pastebin.com/raw/SBRzTZkx", DEBUG_MODE == false and true or DEBUG_MODE == true and false))()[1] -- Ugly ui do not care
 
 local aimbot = {}
 
